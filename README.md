@@ -1,8 +1,8 @@
 Problem statement:
-    People wants to buy dresses.They likes to purchase directly from tailors and want to contact tailors.People dont know about tailor's specialization(eiter they are good at making curtains or making silks).Some people want to import silk from other country or other states.They dont know which tailor they want to contact for the specific task(ie.,curtains,mens wear,women wear,etc,..)
+    People wants to buy dresses.They likes to purchase directly from tailors and want to contact tailors.People dont know about tailor's specialization(either they are good at making curtains or making silks).Some people want to import silk from other country or other states.They dont know which tailor they want to contact for the specific task(ie.,curtains,mens wear,women wear,etc,..).Some people have desire to visit the tailor directly but sometimes people find it difficult to visit.
     
 Proposed Statement:
-    Create a software to buy and sell products.People plays a role as users and tailor plays a role as maker.In this software,users should post their jobs(ie.,what they want to buy and what the maker should do),they choose the clothing material and post aseca job for maker.Maker should accept the jobs and make their product and sell them to the users.
+    Create a software to buy and sell products.People play a role as users and tailor plays a role as maker.In this software,users should post their jobs(ie.,what they want to buy and what the maker should do),they choose the clothing material and post asa job for maker.Maker should accept the jobs and make their product and sell them to the users.
     Users can save their time(They dont have to visit the shops which is in another state or country),they just choose a tailor and post a job and make an order.
     
  Tech Stack Used:
